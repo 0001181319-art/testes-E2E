@@ -19,7 +19,7 @@ Os testes E2E foram criados para simular o uso real da aplicação, garantindo q
 
 ---
 
-## 📝 Testes da página de Cadastro (cadastro.cy.js)
+##  Testes da página de Cadastro (cadastro.cy.js)
 
 ### 1. Verificar se todos os elementos aparecem
 Esse teste garante que a página carrega tudo que o usuário precisa para preencher o formulário:
@@ -45,7 +45,7 @@ sem que um teste influencie o outro.
 
 ---
 
-## 🏠 Testes da página Home (home.cy.js)
+##  Testes da página Home (home.cy.js)
 
 ### 1. Testar a navbar
 Aqui é validado se a navbar carrega corretamente com os textos “Connext”, “Home” e “Login / Cadastro”.  
@@ -65,7 +65,7 @@ Esse teste garante que o botão realmente leva para a página de login/cadastro.
 
 ---
 
-## ✔ Resumo geral
+##  Resumo geral
 Os testes foram feitos desse jeito porque:
 - simulam o comportamento real do usuário  
 - verificam se os elementos principais estão na tela  
