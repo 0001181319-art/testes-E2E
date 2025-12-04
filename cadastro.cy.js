@@ -1,7 +1,7 @@
 describe('Testes da página de Cadastro', () => {
 
   beforeEach(() => {
-    cy.visit('cadastro.html');
+    cy.visit('http://127.0.0.1:5500/testes-E2E-main/cadastro.html');
   });
 
   it('Carrega todos os elementos essenciais da página', () => {
